@@ -1,1 +1,1 @@
-Write a scripts tgat sets the mode of the mode of the file hello as ollehs mode as : the file hello will be in the working directory, the file olleh will be in the working directory
+create a script that adds execute permission to all subdirectories of the current directory fir the owner,the group owner and all other users. regular files should not be changed
