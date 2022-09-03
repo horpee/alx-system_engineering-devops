@@ -1,3 +1,1 @@
-write a sctipts that sets the permission the permission to
-the file as follows:owner:no permissions,group :no permissions,other
-users:all the permissions
+Write a scripts tgat sets the mode of the mode of the file hello as ollehs mode as : the file hello will be in the working directory, the file olleh will be in the working directory
