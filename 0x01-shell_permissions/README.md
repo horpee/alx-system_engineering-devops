@@ -1,1 +1,3 @@
-write a scripts that adds execution permissio  to the owner,the group owner, and the other users to the file hello
+write a sctipts that sets the permission the permission to
+the file as follows:owner:no permissions,group :no permissions,other
+users:all the permissions
