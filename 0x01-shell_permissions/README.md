@@ -1,1 +1,1 @@
-write a script that prints all the group the current user is part of
+write the script that change the owner of the file hello tothe user betty
